@@ -17,6 +17,7 @@ Last updated: April 15, 2025
 - [ ] If using stochastic decoding, does it include estimates of sampling induced variance?
 
 ## Aggregating Results Across Languages
+- [ ] Are metrics comparable across languages?
 - [ ] Is the aggregation of results disproportionately influenced by any outliers?
 - [ ] Are language support differences taken into consideration when aggregating results across languages?
 - [ ] Are language support differences documented with the results?
